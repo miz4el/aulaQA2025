@@ -10,7 +10,6 @@ banhos_ano = int(input('Quantos banhos ele toma por ano?'))
 idade_cachorro = idade_humana * 7
 
 # Defnir valores de acordo com o porte
-# COMITA ESSA PORRA AQUI ENTÂO
 if porte == 'grande':
     valor_banho = 75
     custo_banho = 20
