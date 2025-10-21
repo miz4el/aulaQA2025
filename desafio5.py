@@ -8,8 +8,7 @@ nota3 = float(input("Digite sua nota na terceira prova: "))
 nota4 = float(input("Digite sua nota na quarta prova: "))
 
 #calcular a media
-media1=(nota1 + nota2 + nota3 + nota4)
-media=media1/4
+media=(nota1 + nota2 + nota3 + nota4)/4
 
 #mensagem com o nome e a media
 print(f"Ola {nome}, sua média é de {media:.1f}!!")
