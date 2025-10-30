@@ -1,11 +1,14 @@
 import requests
 #IMPORTANTE A BIBLIOTECA REQUESTS
 
-integrantes = {
+integrantesx = {
     "Dione": "11633422",
     "Kaio": "11633010",
     "Cecilia": "04013001",
     "Mizael": "11630087"
+}
+integrantes = {
+    "Dante": "Danila"
 }
 #DEFININDO A LISTA (CHAVES "NOMES" E VALORES "CEPS").
 
